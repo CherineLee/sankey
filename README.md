@@ -1,8 +1,8 @@
-# Crossing Reduction of Sankey Diagram with Barycentre Ordering via Markov Chain
+# Crossing Reduction of Sankey Diagram with Eigencentric Layout
 
 by He Chen LI, Shi Ying LI, Bo Wen TAN and Shuai Cheng LI.
 
-This project contains the source code for the above paper. The paper has been submitted to the [46th International Workshop on Graph-Theoretic Concepts in Computer Science](https://algorithms.leeds.ac.uk/wg2020).
+This project contains the source code for the above paper. The paper has been submitted to the [14th IEEE Pacific Visualization Symposium (PacificVis 2021)](hhttp://vis.tju.edu.cn/pvis2021/).
 
 ## Requirements
 
@@ -60,7 +60,7 @@ The source code of this test is available [here](https://gitlab.deepomics.org/lh
 
 The output files of this test are two figures, respectively the [dumbbell plot](https://gitlab.deepomics.org/lhc/sankey/blob/master/output/dumbbell.png) and the [boxplot](https://gitlab.deepomics.org/lhc/sankey/blob/master/output/box.png), available in the **output** folder.
 
-### **Robust Test**
+### **Test on synthetic data**
 
 #### Dataset
 
